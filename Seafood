@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Seafood</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <header>
+    <h1>Welcome to Our Recipe Website</h1>
+    <nav>
+        <ul>
+            <li><a href="New.html">Home</a></li>
+        </ul>
+    </nav>
+</header>
+
+</header>
+<main>
+    <article>
+        <h2>Seafood</h2>
+        <img src="My/2SFood.jpeg" alt="Finished Dish">
+        <h3>Ingredients</h3>
+        <p>    2 cups long-grain rice (such as Basmati)</p>
+            <p1>1 tablespoon vegetable oil or butter
+            1 small onion, finely chopped
+            2 cloves garlic, minced
+            1 teaspoon ground turmeric
+            1/2 teaspoon ground cumin
+            1/2 teaspoon ground coriander
+            4 cups chicken or vegetable broth (or water)
+            Salt to taste
+            Optional: a pinch of saffron threads for added color and flavor (soaked in a tablespoon of warm water for a few minutes before using)</p1>
+
+        <h3>Instructions</h3>
+        <p>
+            Prepare the Shrimp: Ensure the shrimp are peeled and deveined. Pat them dry with paper towels and season lightly with salt and black pepper.
+
+            Melt Butter: In a large skillet or frying pan, melt 3 tablespoons of unsalted butter over medium heat.
+        
+            Sauté Garlic: Add 4 cloves of minced garlic to the melted butter. You can also add 1/4 teaspoon of red pepper flakes at this point if you want a hint of spice. Sauté the garlic for about 1 minute until fragrant, being careful not to let it burn.
+        
+            Cook Shrimp: Increase the heat to medium-high. Add the seasoned shrimp to the skillet in a single layer, allowing them to cook for about 2-3 minutes on each side until they turn pink and opaque. Avoid overcrowding the pan; cook the shrimp in batches if needed.
+        
+            Season and Garnish: Season the cooked shrimp with additional salt and pepper if necessary. Sprinkle 2 tablespoons of chopped fresh parsley over the shrimp for added flavor and presentation.
+        
+            Serve: Transfer the garlic butter shrimp to a serving dish. Serve hot with lemon wedges on the side for squeezing over the shrimp just before eating.
+        </p>
+    </article>
+</main>
+<footer>
+    <footer>
+    <p>&copy; 2023 PullzBest</p>
+</footer>
+
+</footer>
+</body>
+</html>
